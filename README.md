@@ -25,4 +25,4 @@ Constraints:
 
 1 <= s1.length, s2.length <= 100
 s1 and s2 consist of lowercase English letters.
-1 <= n1, n2 <= 10^6
+1 <= n1, n2 <= 10^6.
